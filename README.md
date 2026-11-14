@@ -83,6 +83,7 @@ Ejecutar la clase `TiempoDeInversion`:
 ```bash
 java TiempoDeInversion
 ```
+Ejecutado en openjdk 21.0.13 2026-10-20
 
 ## 📐 Fundamentos aplicados
 
