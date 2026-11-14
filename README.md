@@ -1,14 +1,11 @@
 # 📚 ICC - Práctica 02 | APalafox
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-Programming-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
-</p>
-
+UIVERSIDAD NACIONAL AUTONOMA DE MEXICO
 ## 📝 Descripción
 
 Repositorio correspondiente a la **Práctica 02** de la asignatura de Introducción a las Ciencias de la Computación (ICC).
+Profesor: Salvador López Mendoza
+Ayudante de laboratorio: Rosa Victoria Villa Padilla
+Ayudante: Yanahi Demetrio Torres
 
 El proyecto contiene dos programas desarrollados en Java, enfocados en la manipulación de fechas y la simulación de inversiones mediante cálculos de interés simple.
 
