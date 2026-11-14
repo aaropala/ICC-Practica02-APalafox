@@ -1,5 +1,4 @@
 # 📚 ICC - Práctica 02 | APalafox
-UIVERSIDAD NACIONAL AUTONOMA DE MEXICO
 ## 📝 Descripción
 
 Repositorio correspondiente a la **Práctica 02** de la asignatura de Introducción a las Ciencias de la Computación (ICC).
